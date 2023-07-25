@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yahia Mohamed</h1>
 <h3 align="center">A passionate software developer and a very active learner</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw3DzMB0KjQEiPLDamuLcezq&ust=1690336017446000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCPDjj_beqIADFQAAAAAdAAAAABAE)">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahia0mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="yahia0mohamed" /> </p>
 
