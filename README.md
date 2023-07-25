@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahia0mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="yahia0mohamed" /> </p>
 
-- 🌱 I’m currently learning **AI, machine learning and deep learning**
+- 🌱 I’m currently learning **AI, machine learning, deep learning and linux**
 
 - 💬 Ask me about **java development, Databases and SQL**
 
