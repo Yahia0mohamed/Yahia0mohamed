@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yahia Mohamed</h1>
 <h3 align="center">A passionate software developer and a very active learner</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahia0mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="yahia0mohamed" /> </p>
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yahia-mohamed-0yr003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yahia-mohamed-0yr003/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yahia mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahia mohamed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahia0mohamed&show_icons=true&locale=en&layout=compact" alt="yahia0mohamed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahia0mohamed&show_icons=true&locale=en" alt="yahia0mohamed" /></p>
+
