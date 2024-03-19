@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yahia Mohamed</h1>
-<h3 align="center">A passionate software developer and a very active learner</h3>
+<h3 align="center">A passionate ML/DL engineers and a very active learner</h3>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahia0mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="yahia0mohamed" /> </p>
 
-- 🌱 I’m currently learning **AI, machine learning, deep learning and linux**
+- 🌱 I’m currently learning **Neural networks, NLP, Data engineering**
 
-- 💬 Ask me about **java development, Databases and SQL**
+- 💬 Ask me about **Python development, web development, ML/DL algorithms and models**
 
 - 📫 How to reach me **yahia.edu500@gmail.com**
 
