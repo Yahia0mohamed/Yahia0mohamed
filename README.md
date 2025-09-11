@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yahia Mohamed</h1>
-<h3 align="center">A passionate AI engineer and frontend developer from Egypt.</h3>
+<h3 align="center">A passionate Software Engineer from Egypt.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahia0mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="yahia0mohamed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahia0mohamed" alt="yahia0mohamed" /></a> </p>
+- 🔭 I’m currently working on **NEXUS: Agentic Code Helper**
 
-- 🔭 I’m currently working on **Thotron – AI-Narrated Video Generator**
-
-- 🌱 I’m currently learning **Agents 🛂**
+- 🌱 I’m currently learning **Agents 🛂, LangChain, CI/CD**
 
 - 🤝 I’m looking for help with **Start learning MERN stack**
 
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **yahia.edu500@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CVBkuOSPn-GgNN-SKql9xI8w33G-pdS4/view?usp=drivesdk](https://drive.google.com/file/d/1CVBkuOSPn-GgNN-SKql9xI8w33G-pdS4/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1DQP21sIcbAhGO7Dlv_i18UhkIr6qVtC6/view?usp=sharing).
 
 - ⚡ Fun fact **I think AI models are cool, but debugging them at 3 AM is even cooler 😅**
 
