@@ -3,19 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahia0mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="yahia0mohamed" /> </p>
 
-- 🔭 I’m currently working on **NEXUS: Agentic Code Helper**
+- 🔭 I’m currently working on **Geidea** as a Frontend Engineer.
 
-- 🌱 I’m currently learning **Agents 🛂, LangChain, CI/CD**
+- 🌱 I’m currently learning **Angular best practices**
 
-- 🤝 I’m looking for help with **Start learning MERN stack**
-
-- 💬 Ask me about **React, NLP, LLMs**
+- 💬 Ask me about **React, Angular, Frontend optimization and best practices**
 
 - 📫 How to reach me **yahia.edu500@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1DQP21sIcbAhGO7Dlv_i18UhkIr6qVtC6/view?usp=sharing).
-
-- ⚡ Fun fact **I think AI models are cool, but debugging them at 3 AM is even cooler 😅**
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Ovf1_-63avLGyHrV5idDMcoOIETskc_p/view?usp=drivesdk).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
